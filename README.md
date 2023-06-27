@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my portfolio as a DevOps Engineer.<br>👯 I’m looking to collaborate on open-source projects/hackathons.<br>🤝 I’m looking for an internship/job.<br>🌱 I’m currently learning more about Python Kubernetes.<br>💬 Ask me about AWS/DevOps.
+🔭 I’m currently working on my portfolio as a DevOps Engineer.<br>👯 I’m looking to collaborate on open-source projects/hackathons.<br>🤝 I’m looking for an internship/job.<br>🌱 I’m currently learning more about Python and Kubernetes.<br>💬 Ask me about AWS/DevOps.
 
 
 ## 🌐 Socials:
